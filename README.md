@@ -213,7 +213,7 @@ sequenceDiagram
     end
     Code->>Model: Last turn: answer now
     Model-->>Code: submit_checks with verdict and quoted evidence
-    Code->>Code: No evidence means unsure; combine votes
+    Code->>Code: No evidence means unsure, then combine votes
 ```
 
 ### LLM-as-a-Judge
