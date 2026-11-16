@@ -599,17 +599,3 @@ The same pull request reviewed three times gave scores with a standard deviation
 * [ ] Outcome labels based on whether the code changed, not on clicks
 
 ---
-
-## References
-
-* Anthropic, [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) (2024)
-* Anthropic, [Prompt caching](https://docs.anthropic.com/en/docs/build-with-claude/prompt-caching)
-* Yao et al., [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) (2022)
-* Wang et al., [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171) (2022)
-* Zheng et al., [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/abs/2306.05685) (2023)
-* Chen, Zaharia and Zou, [FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance](https://arxiv.org/abs/2305.05176) (2023)
-* Lewis et al., [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (2020)
-* Amershi et al., [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/haxtoolkit/ai-guidelines/) (CHI 2019, Microsoft HAX Toolkit)
-* Google PAIR, [People + AI Guidebook](https://pair.withgoogle.com/guidebook/)
-* OWASP, [Top 10 for LLM Applications 2025](https://genai.owasp.org/llm-top-10/)
-* NIST, [AI Risk Management Framework 1.0](https://www.nist.gov/itl/ai-risk-management-framework)
