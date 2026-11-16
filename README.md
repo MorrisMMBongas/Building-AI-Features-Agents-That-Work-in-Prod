@@ -1,7 +1,6 @@
 ---
 title: Building AI Features and Agents That Work in Production
 description: A practical teaching guide to agentic AI, AI design patterns, human-AI interaction, security, cost and evaluation, illustrated with measured examples from a production system
-ms.date: 2026-11-16
 ms.topic: tutorial
 keywords:
   - agentic ai
